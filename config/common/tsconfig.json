@@ -9,8 +9,8 @@
     "module": "CommonJS",                                  /* Specify what module code is generated. */
     
     /* Emit */
-    "outDir": "dist/common",                             /* Specify an output folder for all emitted files. */
+    "outDir": "../../dist/common",                             /* Specify an output folder for all emitted files. */
   },
-  "include": ["src/**/*"],
-  "exclude": ["**/*.test.ts"]
+  "include": ["../../src/**/*"],
+  "exclude": ["../../src/**/*.test.ts"]
 }
